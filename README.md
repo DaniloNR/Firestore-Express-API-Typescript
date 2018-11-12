@@ -15,13 +15,13 @@ To start just configure your .firebaserc with your project name
 }
 ```
 Install packages under root and inside functions folder:
-1. `$ npm install`
-2. `$ cd functions`
-3. `$ npm install`
+* `$ npm install`
+* `$ cd functions`
+* `$ npm install`
 
 To watch typescript for changes:
-1. `$ cd functions`
-2. `$ npm run watch`
+* `$ cd functions`
+* `$ npm run watch`
 
 To run a local server run (on project root folder): 
 * `$ firebase serve`
