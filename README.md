@@ -2,8 +2,8 @@
 A REST API using firebase, firestore as database, express js and typescript.
 
 ### Prerequisites
-	1. The latest copy of the `$ firebase-tools`.
-	2. The latest version of `$ firebase-admin` and `$ firebase-functions`
+1. The latest copy of the `firebase-tools`.
+2. The latest version of `firebase-admin` and `firebase-functions`
 
 ### Configuration
 To start just configure your .firebaserc with your project name
