@@ -1,7 +1,12 @@
 # Firestore-Express-API-Typescript
 A REST API using firebase, firestore as database, express js and typescript.
 
-To setup just configure your .firebaserc with your project name
+### Prerequisites
+The latest copy of the `firebase-tools`.
+The latest version of `firebase-admin` and `firebase-functions`
+
+### Configuration
+To start just configure your .firebaserc with your project name
 ```javascript
 {
   "projects": {
