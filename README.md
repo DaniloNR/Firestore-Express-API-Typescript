@@ -1,4 +1,4 @@
-# Firestore-Express-API-Typescript
+# Firebase Firestore ExpressJs API with Typescript
 A REST API using firebase, firestore as database, express js and typescript.
 
 ### Prerequisites
